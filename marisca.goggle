@@ -1,7 +1,8 @@
-! name: Marisca
-! description: Fontes brasileiras de informação, ciência, educação, jornalismo e instituições públicas
-! public: true
 
+! name: Marisca
+! description: Prioriza fontes brasileiras oficiais, científicas, educacionais e culturais.
+! public: true
+! author: Victor
 $discard
 $site=ibge.gov.br
 $site=saude.gov.br
